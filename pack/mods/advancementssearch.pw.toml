@@ -1,13 +1,13 @@
 name = "AdvancementsSearch"
-filename = "advancementssearch-mc1.21.2+1.0.jar"
+filename = "advancementssearch-mc1.21.2+1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ccho67RI/versions/uxv9eWfv/advancementssearch-mc1.21.2%2B1.0.jar"
+url = "https://cdn.modrinth.com/data/Ccho67RI/versions/hekKu7pn/advancementssearch-mc1.21.2%2B1.1.jar"
 hash-format = "sha512"
-hash = "7d049a08c6055881e14761ef7a4ae6fc410b8d756f44c46c62de6b33debfd89ddf94ee455f8bc9ea894cb9361771f0820dc5637867778b10f81d978312cc4d60"
+hash = "d25efc9c5b298337ffac233b93a2fd726ca2458152ec393cdf1ce6a8db1674380e42a4051e4821ddaaf7ed01b5ba61a550590fde55004802b97a8e802c075533"
 
 [update]
 [update.modrinth]
 mod-id = "Ccho67RI"
-version = "uxv9eWfv"
+version = "hekKu7pn"

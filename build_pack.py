@@ -5,9 +5,9 @@ from pathlib import Path
 NAME_COLOR_FROM = "#07c5fa"
 NAME_COLOR_TO = "#b2e8f7"
 
-VERSION_COLOR_MAJOR = "#f8c8dc"
-VERSION_COLOR_MINOR = "#fac898"
-VERSION_COLOR_PATCH = "#f8c8dc"
+VERSION_COLOR_MAJOR = "#d4b73a"
+VERSION_COLOR_MINOR = "#edd362"
+VERSION_COLOR_PATCH = "#d4b73a"
 
 pack_name, pack_version, author, repo_url, minecraft_version, loader_version = (
     os.sys.argv[1:7]

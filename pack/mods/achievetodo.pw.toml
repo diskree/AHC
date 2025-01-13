@@ -1,0 +1,13 @@
+name = "AchieveToDo"
+filename = "achievetodo-mc1.21.4+0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DTTu3Q4G/versions/5AB9irtM/achievetodo-mc1.21.4%2B0.1.1.jar"
+hash-format = "sha512"
+hash = "a851fb86e74ef8b44b30eb26fb132f3285bcf1f956d7f812dee5081c25fbee76ac3269c2992349cf479a315454901369cd1188fcd356af34d60ebb10e1a7412b"
+
+[update]
+[update.modrinth]
+mod-id = "DTTu3Q4G"
+version = "5AB9irtM"
